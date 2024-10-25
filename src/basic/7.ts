@@ -1,5 +1,5 @@
 interface List {
-  [key: string]: number | null;
+  [key: string]: number | null | Date;
 }
 
 const page1 = {
